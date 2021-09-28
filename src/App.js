@@ -1,8 +1,8 @@
 import './App.css';
 import MyComponent from './MyComponents';
 
-function App() {
+const App = () => {
     return <MyComponent />;
-}
+};
 
 export default App;
